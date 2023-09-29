@@ -1,0 +1,7 @@
+.TextInput {
+  width: 100%;
+  font-size: 25px;
+  padding: 5px 20px;
+  margin: 20px 0px 40px;
+  box-sizing: border-box;
+}
